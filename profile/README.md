@@ -1,7 +1,5 @@
 # Origami-WEC
 
-![Logo](polpo.png)
-
 Our organization is on a mission to bring you the first distributed, highly scalable, and redundant cloud computing solution.
 
 - **Distributed:** Our system isn’t tied to a single server or location. Instead, it spreads computing tasks across many nodes, making it more resilient and faster by keeping resources closer to you.

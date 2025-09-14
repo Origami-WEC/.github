@@ -1,13 +1,61 @@
-# Origami-WEC
+# Origami Technology
 
-Our organization is on a mission to bring you the first distributed, highly scalable, and redundant cloud computing solution.
+![Origami Technology](https://www.origami-technology.com/images/hero.jpg)
 
-- **Distributed:** Our system isn’t tied to a single server or location. Instead, it spreads computing tasks across many nodes, making it more resilient and faster by keeping resources closer to you.
+Origami Technology is pioneering the future of green cloud services by harnessing the power of the ocean. Our innovative system transforms marine energy into electrical power and computational resources, creating a decentralized, redundant, and sustainable cloud infrastructure.
 
-- **Highly Scalable:** As demand grows, our platform can easily expand its capacity without a hitch. Whether there are a few or thousands of users, performance remains top-notch.
+## 🌊 Overview
 
-- **Redundant:** We’ve built multiple backup systems and fallback mechanisms into our solution. This ensures that even if one component fails, the system keeps running smoothly without any interruptions.
+We are developing the first fully green cloud service—a network of interconnected devices powered by wave energy. These devices form a distributed server network that provides scalable cloud services, including data storage and computational power, all while being environmentally sustainable.
 
-Despite all these impressive characteristics, our system is fully sustainable. We're dedicated to reducing our environmental impact by using energy-efficient practices and renewable energy sources, making our solution both robust and eco-friendly.
+## ⚙️ Device
 
-We’re really excited about what we’re building and would love for you to join us on this journey. Let’s build a smarter, more reliable, and greener future together!
+The core of our system is a Wave Energy Converter (WEC), consisting of two buoys that move with the sea waves. This motion generates electricity and powers onboard servers with up to 600 TB of storage per device. Additionally, each device is equipped with a water cooling system to maintain optimal performance.
+
+![Device](https://www.origami-technology.com/images/device.jpg)
+
+## 🌐 Connection
+
+To ensure continuous data flow, devices communicate through a mesh network, relaying information to ground stations via high-performance antennas. For remote locations, satellite communication serves as a backup, ensuring global connectivity.
+
+![Connection](https://www.origami-technology.com/images/connection.jpg)
+
+## ☁️ Service
+
+Our cloud services offer:
+
+- **Redundancy**: Ensuring always-on services with intelligent workload distribution.
+- **Block Storage**: High-speed, reliable storage ideal for demanding workloads.
+- **Decentralization**: Enhancing security and scalability by eliminating central points of control.
+
+![Service](https://www.origami-technology.com/images/service.jpg)
+
+## 🛠️ Internal Repositories
+
+To support our development efforts, we maintain several internal repositories:
+
+- **Capitone**: A physics simulation tool for modeling wave energy dynamics.
+- **Origami-web**: The frontend for our website and user interfaces.
+- **Mechanism**: CAD models and design files for the transmission system and external components.
+- **Polpo**: Software for controlling electronics and actuators.
+- **Infra**: A lightweight infrastructure for rapid development and testing.
+
+## 🚀 Roadmap
+
+Our journey includes:
+
+- **Prototype Development**: Building and testing the first fully functional node.
+- **Network Expansion**: Deploying multiple nodes to form a scalable network.
+- **Service Deployment**: Offering cloud services to clients with high availability and security.
+
+## 📞 Get Involved
+
+Join us in shaping the future of sustainable cloud computing. For more information or to contribute:
+
+- [GitHub](https://github.com/Origami-Technology)
+- [LinkedIn](https://www.linkedin.com/company/origami-technology)
+- [Email](mailto:contact@origami-technology.com)
+
+---
+
+*Ported from Story by HTML5UP. Images courtesy of Unsplash.*

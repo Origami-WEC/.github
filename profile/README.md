@@ -1,6 +1,6 @@
 <h1>
   Origami Technology 🐙
-  <img src="polpo.png" alt="Logo" width="100" style="vertical-align: middle;">
+  <img src="polpo.png" alt="Logo" width="200" style="vertical-align: middle;">
 </h1>
 
 

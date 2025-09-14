@@ -1,6 +1,6 @@
-<p align="left">
-  <img src="polpo.png" alt="Logo" width="50" style="vertical-align: middle;">
-  <span style="font-size: 2em; font-weight: bold; vertical-align: middle;">Origami Technology  🐙</span>
+<p align="right">
+  <img src="polpo.png" alt="Logo" width="100" style="vertical-align: middle;">
+  <span style="font-size: 8em; font-weight: bold; vertical-align: middle;">Origami Technology  🐙</span>
 </p>
 
 

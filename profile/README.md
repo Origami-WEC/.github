@@ -1,6 +1,8 @@
-# Origami Technology  🐙
+<p align="left">
+  <img src="polpo.png" alt="Logo" width="50" style="vertical-align: middle;">
+  <span style="font-size: 2em; font-weight: bold; vertical-align: middle;">Origami Technology  🐙</span>
+</p>
 
-<img src="polpo.png" alt="Polpo" width="300">
 
 Origami Technology is pioneering the future of green cloud services by harnessing the power of the ocean. Our innovative system transforms marine energy into electrical power and computational resources, creating a decentralized, redundant, and sustainable cloud infrastructure.
 

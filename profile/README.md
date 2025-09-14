@@ -28,7 +28,7 @@ Our cloud services offer:
 - **Block Storage**: High-speed, reliable storage ideal for demanding workloads.
 - **Decentralization**: Enhancing security and scalability by eliminating central points of control.
 
-![Service](https://www.origami-technology.com/images/service.jpg)
+![Service](https://www.origami-technology.com/images/data_storage.webp)
 
 ## 🛠️ Internal Repositories
 
@@ -50,12 +50,6 @@ Our journey includes:
 
 ## 📞 Get Involved
 
-Join us in shaping the future of sustainable cloud computing. For more information or to contribute:
-
-- [GitHub](https://github.com/Origami-Technology)
-- [LinkedIn](https://www.linkedin.com/company/origami-technology)
-- [Email](mailto:contact@origami-technology.com)
+Join us in shaping the future of sustainable cloud computing.
 
 ---
-
-*Ported from Story by HTML5UP. Images courtesy of Unsplash.*

@@ -1,6 +1,6 @@
-# Origami Technology
+# Origami Technology  🐙
 
-![Origami Technology](https://www.origami-technology.com/images/hero.jpg)
+![Origami Technology]([https://www.origami-technology.com/images/hero.jpg](https://www.origami-technology.com/images/sea_wave6.webp))
 
 Origami Technology is pioneering the future of green cloud services by harnessing the power of the ocean. Our innovative system transforms marine energy into electrical power and computational resources, creating a decentralized, redundant, and sustainable cloud infrastructure.
 
@@ -12,13 +12,13 @@ We are developing the first fully green cloud service—a network of interconnec
 
 The core of our system is a Wave Energy Converter (WEC), consisting of two buoys that move with the sea waves. This motion generates electricity and powers onboard servers with up to 600 TB of storage per device. Additionally, each device is equipped with a water cooling system to maintain optimal performance.
 
-![Device](https://www.origami-technology.com/images/device.jpg)
+![Device]([https://www.origami-technology.com/images/device.jpg](https://www.origami-technology.com/images/image_wec.webp))
 
 ## 🌐 Connection
 
 To ensure continuous data flow, devices communicate through a mesh network, relaying information to ground stations via high-performance antennas. For remote locations, satellite communication serves as a backup, ensuring global connectivity.
 
-![Connection](https://www.origami-technology.com/images/connection.jpg)
+![Connection]([https://www.origami-technology.com/images/connection.jpg](https://www.origami-technology.com/images/antennas.webp))
 
 ## ☁️ Service
 

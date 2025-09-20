@@ -46,7 +46,11 @@ Our journey includes:
 ## 📞 Get Involved
 
 Join us in shaping the future of sustainable cloud computing.
-[![WebSite](https://img.shields.io/badge/Dashboard-online-green?style=for-the-badge&logo=vercel)](https://origami-technology.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:info@origami-technology.com)
+
+## 🔗 Links
+
+[![Dashboard](https://img.shields.io/badge/-Dashboard-0A66C2?style=flat&logo=vercel&logoColor=white)](https://tuodominio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@tuodominio.com)
+
 
 ---

@@ -51,12 +51,4 @@ Join us in shaping the future of sustainable cloud computing.
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat)](mailto:info@origami-technology.com)
 
-
-## 🔗 Links
-
-[🌐](https://tuodominio.com)
-
-[📩](mailto:info@tuodominio.com)
-
-
 ---

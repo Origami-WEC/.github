@@ -54,9 +54,9 @@ Join us in shaping the future of sustainable cloud computing.
 
 ## 🔗 Links
 
-🌐 [Webpage](https://tuodominio.com)
+[🌐](https://tuodominio.com)
 
-📩 [Email](mailto:info@tuodominio.com)
+[📩](mailto:info@tuodominio.com)
 
 
 ---

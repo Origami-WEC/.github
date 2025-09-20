@@ -46,11 +46,9 @@ Our journey includes:
 ## 📞 Get Involved
 
 Join us in shaping the future of sustainable cloud computing.
-
 ## 🔗 Links
 
-[![Dashboard](https://img.shields.io/badge/-Dashboard-0A66C2?style=flat&logo=vercel&logoColor=white)](https://tuodominio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@tuodominio.com)
+[![Dashboard](https://img.shields.io/badge/Dashboard-online-green?style=flat-square&logo=vercel)](https://tuodominio.com) [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail)](mailto:info@tuodominio.com)
 
 
 ---

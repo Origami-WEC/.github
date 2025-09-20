@@ -47,7 +47,7 @@ Our journey includes:
 
 Join us in shaping the future of sustainable cloud computing.
 
-[![Webpage](https://img.shields.io/badge/-Webpage-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://tuodominio.com)
+[![Webpage](https://img.shields.io/badge/-Webpage-0A66C2?style=flat)](https://origami-technology.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@tuodominio.com)
 
 

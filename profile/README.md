@@ -1,209 +1,186 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Origami-WEC/.github/main/profile/polpo.png" alt="Origami" width="180" />
+<img src="https://raw.githubusercontent.com/Origami-WEC/.github/main/profile/polpo.png" alt="Origami" width="170" />
 
 # 🌊 Origami — Technology
 
-### Turning ocean waves into compute, connectivity and intelligence.
+### We turn the ocean into a computing surface.
 
-**We are not building a generator. We are building the nervous system that makes the ocean computable.**
+**Not a generator to install. Not a server to place. A living infrastructure that generates, thinks, connects and repairs itself — offshore.**
 
 [![Website](https://img.shields.io/badge/Website-origami--technology.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.origami-technology.com)
 [![Kyma](https://img.shields.io/badge/Platform-Kyma-1E6F9F?style=for-the-badge&logo=apachearrow&logoColor=white)](https://kyma.origami-technology.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Origami%20Technology-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/origamitechnology)
 [![Email](https://img.shields.io/badge/Contact-info@origami--technology.com-D14836?style=for-the-badge)](mailto:info@origami-technology.com)
-[![Location](https://img.shields.io/badge/Based%20in-Italy-008C45?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Italy](https://img.shields.io/badge/Based%20in-Italy-008C45?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🧭 What Origami is
+## 🧭 The thesis
 
-**Origami is a distributed, modular, autonomous infrastructure that generates energy from ocean waves and consumes it on the spot to produce computation, connectivity and AI offshore.**
+The world is running out of places to put its computers.
 
-Each node of the network is a hermetic 10-tonne float (7 m × 1.5 m). But *the single unit is not the product*. The product is the **collaborative whole**: a swarm of identical nodes that communicate, coordinate and self-organise like a digital nervous system stretched across the surface of the ocean.
+Data centres need land, they need a power grid able to absorb them, they need energy and water to cool them — and they keep consuming all three. Meanwhile, two thirds of the planet hold an essentially unlimited supply of energy that nobody harvests, and the natural thermal sink that would make cooling free.
 
-The name *Origami* evokes the Japanese art of folding paper: simple modules that, combined, produce complex and reconfigurable shapes. Every node is identical, interchangeable, replaceable. **The complexity lives in the connections, not in the components.**
+**Origami harvests wave energy and consumes it on the spot to produce computation, connectivity and artificial intelligence — offshore.**
 
-> The energy is not transported — it is consumed where it is born.
-> The data is not transmitted — it is processed where it is collected.
-> The sea is not a desert — it is a network.
+The single unit is a hermetic float that turns the motion of the sea into electricity and feeds onboard servers. But **the single unit is not the product**. The product is the *whole*: a swarm of identical nodes that communicate, coordinate, share load and repair each other like a digital nervous system stretched across the surface of the ocean.
 
-### Why now
+> **The energy is not transported — it is consumed where it is born.**
+> **The data is not transmitted — it is processed where it is collected.**
+> **The sea is not a desert — it is a network.**
 
-As global demand for compute accelerates, traditional data centres are hitting a physical and environmental wall:
-
-| The wall | What it costs today | Origami's answer |
-|---|---|---|
-| **Land consumption** | Onshore facilities compete for scarce urban and industrial land | *Endless blue* — the largest unused space on the planet |
-| **Grid saturation** | Power grids cannot absorb multi-megawatt compute clusters | *Generation at the point of use* — untapped wave energy, no transmission losses |
-| **Cooling inefficiency** | Artificial cooling wastes 30–40% of the energy a data centre consumes | *Natural heat sink* — passive subsea cooling, PUE 1.0–1.1 |
-| **Environmental impact** | Heavy burden on local ecosystems and resources | *Zero-emission offshore compute* + continuous ocean observation |
+The name *Origami* is the Japanese art of folding paper: simple modules that, combined, produce complex and reconfigurable shapes. Every node is identical, interchangeable, replaceable. **The complexity lives in the connections, not in the components.**
 
 ---
 
-## ⚙️ The anatomy of a node
+## 🌊 Why now
 
-A single module is a **Wave Energy Converter (WEC) with a sealed hull**: a vertical cylindrical body (7 m × 1.5 m, 10 t) hosting a reinforced-concrete reactive mass (7,140 kg) that oscillates relative to the outer hull. The relative motion drives an electric generator through a **double-sided rack-and-pinion transmission with one-way clutches**, which rectifies the alternating motion into continuous rotation.
+Compute demand is accelerating into a physical and environmental wall: scarce land for onshore facilities, power grids that cannot absorb multi-megawatt clusters, artificial cooling that burns a third of the energy a data centre consumes, and a growing ecological burden on the territories that host it.
 
-The whole Power Take-Off lives in a **sealed, dry, inert-atmosphere environment**: no moving part ever touches seawater.
-
-| Spec | Value |
+| The wall | Origami's answer |
 |---|---|
-| Hull | 7 m × 1.5 m, hermetic, ~10 t |
-| Reactive mass | 7,140 kg reinforced concrete |
-| Rated power | 5 kW per module |
-| Annual yield | 40–50 MWh/year per module |
-| Transmission | Double-sided rack & pinion + one-way clutches (variable ratio) |
-| PTO environment | Sealed, dry, inert — no seawater contact |
-| Emergency surface | 64 m² — hosts PV panels → **hybrid wave–solar** |
-| LCOE | 122–256 EUR/MWh |
-| Energy storage | Modular 19" racks, 5 kWh each (Li-ion / solid-state) |
-| DC bus | 48 V nominal (52 V real), onboard computer (OBC) |
-| Cooling | Passive subsea heat exchange — **PUE 1.0–1.1** |
-| Mooring | 3 lines, intelligent automatic release, AUV repositioning |
-| Patent | Filed application **P11589IT00** — two-body architecture, active volume/density variation, variable-ratio transmission |
+| **No more land** | *Endless blue* — the largest unused space on Earth |
+| **No more grid** | Energy generated exactly where it is consumed: no transmission, no waiting list |
+| **No more cooling budget** | *Natural heat sink* — passive subsea cooling, PUE 1.0–1.1 |
+| **No more externalities** | Zero-emission offshore compute, plus a permanent observatory on the state of the ocean |
 
-What the energy actually feeds:
+There is a second reason, less economic and just as important: **whoever can compute, connect and observe far offshore gains sovereignty** — over data, over maritime awareness, over infrastructure that keeps working when terrestrial systems fail.
 
-- 🖥️ **Compute servers** — edge computing, AI inference, encrypted storage
-- 🌡️ **Multi-parametric oceanographic sensors** — temperature, pressure, salinity, currents, biochemistry
-- 📡 **Communication antennas** — RF mesh, satellite bridge, subsea links
+---
+
+## ⚙️ One architecture, three layers
+
+Every node is a self-contained cell that performs three functions at once:
+
+```mermaid
+graph LR
+    A["⚡ ENERGY<br/>wave motion → electricity<br/>local storage absorbs transients"] --> B["🧠 COMPUTE<br/>AI inference · sensor fusion<br/>encryption · distributed storage"]
+    B --> C["📡 CONNECTIVITY<br/>RF mesh · satellite bridge<br/>subsea links"]
+    C --> D["🌍 WHAT IT ENABLES<br/>offshore cloud · maritime telecom<br/>AUV recharging · ocean observation<br/>remote micro-grids · desalination<br/>green H2 · mariculture"]
+```
+
+- **Energy** — a wave energy converter with a sealed hull and a reactive internal mass. Nothing that moves ever touches seawater: the power take-off works dry, in an inert atmosphere. Each node also drives an onboard observation suite (temperature, pressure, salinity, currents, biochemistry) and exposes an emergency surface that can host solar panels, making the unit a **hybrid wave–solar generator**.
+- **Compute** — onboard servers run the workload *there*: AI inference, encryption, distributed storage. Processing at the edge removes the dependency on expensive, high-latency satellite links and turns latency into an engineering choice instead of a constraint.
+- **Connectivity** — a self-configuring radio mesh between neighbouring nodes, a satellite bridge toward shore for essential data and alarms, and subsea links for drones and submerged sensors.
+
+At a glance: a 10-tonne float, 7 m × 1.5 m, a few kilowatts of installed generation per module, tens of megawatt-hours per year, cooled by the sea, moored on three lines. Nothing in those numbers is the point — **they are the resolution of the idea: small, repeatable, replicable cells.**
 
 ---
 
 ## 🐙 The swarm — the infrastructure *is* the product
 
-Nodes are not isolated units. They form a **self-organising wireless mesh network** with emergent properties:
+A network of identical cells is not a collection of machines. It is a system with **emergent properties**:
 
 ```mermaid
 graph TB
-    subgraph SWARM["🌊 The swarm"]
-        N1["Node 01<br/>wave crest → full compute"]
-        N2["Node 02<br/>trough → shed load"]
-        N3["Node 03<br/>storage / vault"]
+    subgraph S["🌊 The swarm behaves as one machine"]
+        N1["Node 01<br/>wave crest → heaviest workloads"]
+        N2["Node 02<br/>trough → sheds load to neighbours"]
+        N3["Node 03<br/>storage · data vault"]
         N4["Node 04<br/>gateway"]
         N1 <-->|RF mesh| N2
         N2 <-->|RF mesh| N3
         N3 <-->|RF mesh| N4
         N4 <-->|RF mesh| N1
     end
-    N4 -->|satellite bridge| SHORE["🏢 Shore / orbit<br/>essential data + alerts"]
-    N3 -->|subsea link| AUV["🤖 AUV / ROV<br/>docking + recharge"]
-    N1 -.->|sneakernet| N2
+    N4 -->|satellite bridge| SHORE["🏢 Shore<br/>essential data + alerts"]
+    N3 -->|subsea link| AUV["🤖 AUV / ROV<br/>docking, recharge, data ferry"]
 ```
 
-- **Energy-aware scheduling** — the swarm balances compute load against instantaneous wave availability. A node on a wave crest runs the heaviest workloads; a node in a trough sheds load and borrows capacity from its neighbours over the radio link.
-- **Physical reconfigurability** — nodes can *migrate seasonally*, following currents and optimal wave regimes, repositioning in formation with integrated underwater drones.
-- **Self-healing** — if a node fails, the swarm detects the absence, redistributes the load and reconfigures the network topology. The failed node is repaired or replaced by a drone **without interrupting the service**.
-- **Swarm intelligence** — distributed algorithms optimise node geometry to maximise collective energy capture, minimise wave shadowing between neighbouring units and preserve network connectivity.
+- **Energy-aware scheduling** — the swarm distributes computational load according to instantaneous wave availability. A node riding a crest runs the heaviest workloads; a node in a trough reduces its own and borrows capacity from its neighbours over the radio link.
+- **Reconfigurability** — nodes are not planted for life: they can migrate seasonally, following currents and the best wave regimes, repositioning in formation with their own underwater drones.
+- **Self-healing** — when a node is lost, the swarm detects the absence, redistributes the load and rebuilds the network topology. The node is repaired or replaced without interrupting the service.
+- **Swarm intelligence** — distributed algorithms tune the geometry of the fleet to maximise collective energy capture, avoid wave shadowing between neighbours and keep the network connected.
 
-### No single point of failure
+### There is no centre
 
-There is no centre. Every node is an autonomous agent with its own batteries, its own DC bus, its own onboard computer and its own communication stack. **The network can lose 30% of its nodes and keep operating — degraded, but without a blackout.** Eliminating the single point of failure is an architectural requirement, not an option.
+Every node carries its own storage, its own power bus, its own computer, its own communication stack. **The network is designed to lose a third of its units and keep operating — degraded, never blacked out.** Removing the single point of failure is an architectural requirement, not a feature.
 
-### Three coexisting layers
+### The ocean becomes an observatory
 
-```mermaid
-graph LR
-    A["⚡ Layer 1 — Energy<br/>wave → electricity<br/>local storage buffers transients"] --> B["🧠 Layer 2 — Compute<br/>AI inference, sensor fusion,<br/>crypto, distributed storage"]
-    B --> C["📡 Layer 3 — Connectivity<br/>RF mesh · satellite · subsea links"]
-    C --> D["🌐 Markets<br/>edge compute · telecom · AUV docking<br/>maritime awareness · remote micro-grids<br/>desalination · green H₂ · mariculture"]
-```
+Nodes are not inert. A deployed fleet is a **permanent, distributed oceanographic observatory**: seawater parameters, currents and weather measured continuously; oil spills, vessel patterns and marine mammals detected; environmental data certified for sustainability reporting. The same fleet can host, recharge and relay autonomous underwater vehicles that would otherwise need a support ship — replacing vessel days with resident robotics.
 
 ---
 
-## 🔬 What we are doing right now — and why
+## 🚀 What we are doing now — and why
 
-The programme runs on **three pillars that advance in parallel** with different priorities, designed to maximise de-risking and shorten time-to-market:
-
-1. **Hull & structure (sea first).** The float goes in the water *before* the PTO exists, instrumented with sensors: the goal is not energy, it is validating hydrodynamic response, structural integrity and mooring loads in real sea conditions. This separates naval risk from mechanical risk — leaks, stability and anchoring problems surface before the complete system is afloat.
-2. **Power Take-Off (in the lab).** The energy heart of the system is designed and characterised on a **Hardware-in-the-Loop test rig**, fed by load profiles that come directly from the hull's at-sea data. A continuous loop: the sea generates data → Kyma turns it into commands → the lab tests the PTO on real conditions → efficiency parameters flow back into the design.
-3. **Kyma (the software).** The geospatial and temporal hub of the whole system — and a standalone commercial product in its own right.
-
-These pillars are organised into **four work packages**:
+We are not chasing a finished product. We are **buying down risk in the right order**, so that failures happen on a table in a laboratory instead of in the open sea in winter.
 
 ```mermaid
 graph TD
-    START(["Project start"]) --> A["1A · Ground Station<br/><b>Priority: MAXIMUM</b><br/>dry test bench for all onboard electronics"]
-    START --> B["1B · Kyma platform<br/><b>Priority: HIGH</b><br/>geospatial data hub"]
-    START --> C["1C · Hull, structure & mooring<br/><b>Priority: HIGH</b><br/>at-sea validation"]
-    START --> D["2 · PTO development<br/><b>Priority: MEDIUM</b><br/>HIL rig + modular cartridge"]
-
-    A --> S1(["Sync 1<br/>electronics sealed into the hull<br/>+ dry test before launch"])
+    START(["Today"]) --> A["1A · Ground station<br/>highest priority<br/>a dry bench where all onboard<br/>electronics are validated first"]
+    START --> B["1B · Kyma platform<br/>high priority<br/>the geospatial and temporal hub"]
+    START --> C["1C · Hull, structure, mooring<br/>high priority<br/>at-sea validation"]
+    START --> D["2 · Power take-off<br/>medium priority<br/>lab characterisation"]
+    A --> S1(["Sync 1 — electronics are sealed<br/>into the hull and tested dry<br/>before launch"])
     C --> S1
     B --> D
-    D --> S2(["Sync 2<br/>PTO enters the hull plug-and-play bay"])
+    D --> S2(["Sync 2 — the PTO is inserted<br/>as a plug-and-play cartridge<br/>into the hull"])
     C --> S2
     S1 --> SEA(["First open-sea test"])
     S2 --> SEA
-    SEA --> SCALE(["Industrial deployment<br/>→ the swarm"])
+    SEA --> SCALE(["Pre-commercial pilot<br/>then the swarm"])
 ```
 
-**Why this order.** The **Ground Station** (1A) is the highest priority: a dry bench where onboard electronics, sensors, modems, the AIS antenna and the energy management system are validated *before* being sealed into the watertight bays. Integration risks are killed on a table, not at sea. **Kyma** (1B) and the **hull with its mooring** (1C) advance in parallel; the **lab PTO** (2) has medium priority because it can progress independently and benefit from real data collected at sea.
+**Three pillars, in parallel.** The **hull** goes to sea first, instrumented but without a power take-off, so that naval risk — tightness, stability, anchoring — surfaces before the complete system is afloat. The **power take-off** is designed and characterised in the laboratory, on a test bench that reproduces at-sea loads measured in the real world. **Kyma**, the software pillar, turns those measurements into a unified, queryable picture of the ocean — and into a product with its own market.
 
-The hull's PTO bay is designed from day one as a **flanged, plug-and-play cartridge slot** (mechanical interface, marine electrical connectors, CANbus field bus), so the hull investment stays valid even if the PTO concept evolves.
+**Four work packages.** The **ground station** comes first: validate every sensor, radio and power path on a bench, before sealing anything into a watertight bay. Then the **hull with its mooring** and the **Kyma platform** in parallel. Then the **lab power take-off**, which can advance independently and gets better as soon as real sea data arrives.
 
----
+**Why this order.** Every integration error caught on land is an error that will never cost a vessel day, a weather window or a recovery operation. The hull reserves a **flanged, plug-and-play bay** for the power take-off from day one, so the hull investment stays valid even if the conversion concept evolves.
 
-## 🗺️ Kyma — Offshore Intelligence Platform
+### An honest map of what must still be solved
 
-**Kyma turns complex scientific marine datasets into interactive, high-frame-rate dashboards** — and it is the geographic brain that connects the sea nodes to the shore.
+- **Survival** — extreme sea states, storm loads, fatigue.
+- **The marine environment** — corrosion, biofouling, marine growth, and proving the environmental footprint (thermal plume, acoustic impact, ecosystem interference) with data rather than declarations.
+- **Protection** — mooring and subsea links safe from fishing gear and traffic; physical security of unattended hardware.
+- **Compute at sea** — storage and servers surviving constant motion and vibration.
+- **Economy of scale** — taking assembly, deployment and recovery cost out of a system that must be built hundreds of times.
+- **Permissions and logistics** — marine concessions, insurance, weather windows, recovery procedures.
 
-It has a **double role**:
-
-- 🧰 **Internal instrumentation** during Origami's sea-test phases — telemetry fusion, load-profile generation for the HIL rig, site selection;
-- 💼 **Blue-economy product** with its own revenue: weather routing, maritime intelligence and ocean-data analytics sold to shipowners, offshore operators and research centres — **recurring revenue before the first float hits the water**.
-
-| Data source | What it brings |
-|---|---|
-| **AIS** | Vessel traffic, positions, routes |
-| **Copernicus / CMEMS** | Oceanography: currents, temperature, sea state |
-| **CEMS** | Early warning |
-| **EMODnet** | Offshore assets and European marine data |
-
-Architecture: modular microservices, WebGL globe frontend (Svelte + MapLibre GL + Deck.gl + Apache Arrow), TimescaleDB/PostGIS, Caddy gateway. → **[github.com/Kyma-ORG](https://github.com/Kyma-ORG)**
+These are the questions the prototype exists to answer.
 
 ---
 
-## 🚀 Roadmap
+## 🗺️ Kyma — offshore intelligence
 
-| Phase | Milestone | Content |
-|:---:|---|---|
-| **PoC · TRL 3** | **First prototype** | 1 kW IT peak power. Tests on the device: energy, computing, cooling |
-| **PoC · TRL 6** | **First network** | 5 devices. Tests on the system: connection, network, operation |
-| **Swarm life** | **The swarm** | Scale deployment and production. Sea-cloud with high installed IT power → **market-ready** |
+**Kyma turns complex marine data into a live, interactive map of the sea.**
+
+It has two lives. Internally, it is the **instrumentation** of Origami: it fuses the fleet's telemetry with global meteo-oceanographic flows — waves, wind, currents, bathymetry, vessel traffic — and turns them into the load profiles and site decisions that drive the laboratory and the sea trials. Commercially, it is a **standalone blue-economy product**: weather routing, maritime intelligence, ocean data analytics. Recurring revenue **before the first float is in the water**.
+
+Data comes from AIS vessel traffic, Copernicus/CMEMS oceanography, CEMS early warning and EMODnet offshore assets. The platform is a modular microservice stack with a WebGL globe frontend, a time-series and geospatial backbone and a single gateway.
+
+→ **[github.com/Kyma-ORG](https://github.com/Kyma-ORG)**
 
 ---
 
 ## 🧪 Open source
 
-Part of our engineering is public — simulation, tooling and research:
+Part of our engineering is public: the simulation and tooling that make our device testable before it exists.
 
 | Repository | What it is |
 |---|---|
 | [`SwarmAreaCoverage`](https://github.com/Origami-WEC/SwarmAreaCoverage) | Swarm area-coverage simulation: how agents cooperate to cover a sea area |
-| [`gz-mooring`](https://github.com/Origami-WEC/gz-mooring) | **gz-sim** mooring plugin (MoorDyn v2.7.1): fairlead forces, line tension on `/mooring/tension` |
-| [`wec-tools`](https://github.com/Origami-WEC/wec-tools) | gz-sim plugins for WEC dynamics + QML telemetry dashboard |
-| [`cad-to-gazebo`](https://github.com/Origami-WEC/cad-to-gazebo) | FreeCAD → SDF/Gazebo conversion: assemblies, materials, manifest export |
-| [`gazebo-sim`](https://github.com/Origami-WEC/gazebo-sim) | Wave & surface plugins for Gazebo — mirror of upstream [`srmainwaring/asv_wave_sim`](https://github.com/srmainwaring/asv_wave_sim), all credits to the original authors |
+| [`gz-mooring`](https://github.com/Origami-WEC/gz-mooring) | Mooring plugin for gz-sim (MoorDyn): fairlead forces and line tension |
+| [`wec-tools`](https://github.com/Origami-WEC/wec-tools) | gz-sim plugins for wave energy converter dynamics + telemetry dashboard |
+| [`cad-to-gazebo`](https://github.com/Origami-WEC/cad-to-gazebo) | FreeCAD → Gazebo: taking mechanical design into simulation |
+| [`gazebo-sim`](https://github.com/Origami-WEC/gazebo-sim) | Wave and surface plugins for Gazebo — mirror of upstream [`srmainwaring/asv_wave_sim`](https://github.com/srmainwaring/asv_wave_sim), all credits to the original authors |
 
-The rest of the stack — hydrodynamic simulation (FreeCAD → Gazebo pipeline, SI-unit multibody), BEM analysis (Nemoh/Capytaine), SPH CFD, sea-state data pipelines, lab-test post-processing, ROS2 sensor firmware and the whole internal platform — is developed in private repositories by the team.
+The rest of the stack — multibody hydrodynamics, boundary-element analysis, particle CFD, sea-state data pipelines, bench-test post-processing, embedded firmware and the internal platform — is developed in private repositories by the team.
 
 ---
 
-## 🛠️ Technology
+## 🛠️ What we build with
 
-`FreeCAD` · `Gazebo / gz-sim` · `SDF` · `MoorDyn` · `DualSPHysics` · `Capytaine / Nemoh` · `Rust` · `Python` · `Streamlit` · `Qt / QML` · `ROS 2` · `Go` · `Svelte` · `MapLibre GL` · `Deck.gl` · `Apache Arrow` · `PostgreSQL / TimescaleDB / PostGIS` · `Redis` · `MQTT` · `Docker / Docker Compose` · `GitHub Actions`
+`FreeCAD` · `Gazebo / gz-sim` · `MoorDyn` · `DualSPHysics` · `Capytaine / Nemoh` · `Rust` · `Python` · `ROS 2` · `Go` · `Svelte` · `MapLibre GL` · `Deck.gl` · `Apache Arrow` · `PostgreSQL / TimescaleDB / PostGIS` · `Redis` · `Docker` · `GitHub Actions`
 
 ---
 
 ## 👥 Team & careers
 
-Origami was born in the research environment of **Politecnico di Milano**, won **Switch2Product** and joined the **Polihub** incubation programme. We are a small, fast team looking for strong engineers and ambitious minds to run the first device tests.
-
-Career paths span **mechatronics & embedded systems**, **hydrodynamics & marine mechanical engineering**, **full-stack software engineering** and **applied data science & signal processing** — including thesis paths with real hardware, real sea data and real responsibility.
+Origami was born in the research environment of **Politecnico di Milano**, won **Switch2Product** and joined the **Polihub** incubation programme. We are a small team with a large machine to build, and we are looking for strong engineers and ambitious minds — mechatronics and embedded systems, hydrodynamics and marine mechanical engineering, full-stack software, applied data science and signal processing — including thesis paths with real hardware, real sea data and real responsibility.
 
 📬 Write to us for positions, collaborations or thesis projects.
 

@@ -17,6 +17,18 @@ body:
       placeholder: "#17 — M0 — Foundation & Setup"
     validations:
       required: true
+  - type: dropdown
+    id: owner
+    attributes:
+      label: Owner (role) — l'assegnatario
+      description: "L'account macchina del ruolo che esegue. La issue va ASSEGNATA a questo account subito (gh issue create … --assignee Org-<ruolo>): un item senza assegnatario non lo sveglia nessun digest. docs/processi/lavoro.md §1.6"
+      options:
+        - Org-Marco — Chief Engineer (track/device, track/pto)
+        - Org-Alessandro — Chief Software Officer (track/kyma, software, infrastructure)
+        - Org-Chiara — Head of Growth (track/growth)
+        - Org-Mio — CEO (hub, coordinamento, approvazioni)
+    validations:
+      required: true
   - type: textarea
     id: objective
     attributes:

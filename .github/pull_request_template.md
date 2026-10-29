@@ -10,6 +10,7 @@ Refs #<!-- numero della issue -->
 <!-- Il comando o il file che dimostra il risultato. -->
 
 ## Checklist (prima di chiedere il controllo)
+- [ ] **La PR è assegnata** all'account macchina del ruolo — lo **stesso** assegnatario della issue ([`lavoro.md` §1.6](https://github.com/Origami-WEC/organization/blob/main/docs/processi/lavoro.md)). Una PR senza assegnatario non la porta avanti nessuno: il bus non la sveglia in nessun digest.
 - [ ] Il branch è `issue-<NN>-<slug>`, uguale in ogni repo coinvolto.
 - [ ] La PR linka la issue (`Refs #NN`). La chiusura della issue la fa Mio al controllo esterno (non `Closes` automatico).
 - [ ] L'artefatto è **verificabile** qui nella PR (file, output, test) — non "è stato detto".
